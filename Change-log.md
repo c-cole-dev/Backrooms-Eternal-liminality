@@ -4,7 +4,7 @@ Backrooms-Eternal-liminality version: prototype 1 26/11/2026: 23:16
 
 ## Changes:
           
-- controller function and keyboard function
+- controller function and keyboard function (tested on ps5 controller more testing is comming)
           
 - very basic test map- not textured but used as a very basic test map
 
