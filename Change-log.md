@@ -22,3 +22,7 @@ Backrooms-Eternal-liminality version: prototype 1 26/11/2026: 23:16
 - sanity doesn’t drain correctly
 
 - textures sometimes appear incorrectly(sometimes it can be the default unity texture others it could be bright pink or bright blue... im working on a fix) 
+
+- we have also noticed that you can move while in the menu
+
+- the menu is open when you start the game you must press esc to interact with it
